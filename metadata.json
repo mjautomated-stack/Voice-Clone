@@ -1,0 +1,7 @@
+{
+  "name": "VoxVault Pro",
+  "description": "Professional vocal cloning dashboard with neural asset vault, synthesis gallery, and persistent vocal fingerprinting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
